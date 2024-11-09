@@ -18,10 +18,9 @@ div.VISUAL_DATA_ENTRY_1 {
 
 p.total_ranking {
     margin-left: 1%;
-    margin-right: 1%;
+    margin-right: 0%;
     margin-top: auto;
     margin-bottom: auto;
-    width: 3.5%;
 }
 
 img.entry_image {

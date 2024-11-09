@@ -1,5 +1,5 @@
 function loadFriendActivityPage() {
-    window.location.href = "page_friend_activity.html"
+    window.location.href = "index.html"
 }
 
 function loadEntrySubmissionPage() {
